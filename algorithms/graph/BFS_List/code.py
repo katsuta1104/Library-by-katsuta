@@ -1,4 +1,4 @@
-def bfs(graph):
+def bfs_list(graph):
     #graphは隣接リスト表現
     #頂点0からの最短距離を返す
   
