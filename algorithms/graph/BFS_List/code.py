@@ -1,8 +1,9 @@
+INF = 10**46
+
 def bfs_list(graph):
     #graphは隣接リスト表現
     #頂点0からの最短距離を返す
   
-    INF = 10**46
     dist = [INF]*N
     dist[0] = 0
     
