@@ -1,2 +1,2 @@
-# Libraly-by-katsuta
+# Library-by-katsuta
 katsutaによるライブラリ整理
